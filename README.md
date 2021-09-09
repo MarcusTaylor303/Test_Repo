@@ -1,4 +1,9 @@
-# Test_Repo
+# Introduction
 
-# His there and welcom to my Test_Repo.
+This is a repository created by *Marcus*
 
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
